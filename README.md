@@ -20,3 +20,9 @@ java Reversi
 # Screenshot
 
 ![Screenshot](https://raw.githubusercontent.com/javalc6/reversi/master/images/screenshot.png)
+
+# References
+
+- [Reversi](https://thesaurus.altervista.org/revers-help)
+
+- [Reversi on Android](https://play.google.com/store/apps/details?id=livio.reversi)
