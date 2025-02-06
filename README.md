@@ -1,5 +1,8 @@
 ![reversi](images/reversi.jpg)
 ============
+```
+Deprecation notice: this repository is deprecated as it uses outdated Java libraries (e.g. JApplet)
+```
 # Reversi
 Reversi (Othello) is a game based on a grid with eight rows and eight columns, played between you and the computer, by adding pieces with two sides: black and white.
 At the beginning of the game there are 4 pieces in the grid, the player with the black pieces is the first one to place his piece on the board.
